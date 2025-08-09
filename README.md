@@ -33,7 +33,7 @@ This repository is designed for **educational and ethical hacking** purposes —
 ## 🚀 Installation
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/cybersecurity-toolkit.git
+git clone https://github.com/Pandapuneeth/Top-15-Python-Hacking-tools-.git
 cd cybersecurity-toolkit
 
 # Create a virtual environment
@@ -63,8 +63,6 @@ MIT License – free to use, modify, and distribute for educational purposes.
 
 
 🌟 Future Plans
-Combine all tools into a single Tkinter/Streamlit GUI.
-
-Add reporting & logging features.
-
-Expand AI-based threat detection models.
+-> Combine all tools into a single Tkinter/Streamlit GUI.
+-> Add reporting & logging features.
+-> Expand AI-based threat detection models.
