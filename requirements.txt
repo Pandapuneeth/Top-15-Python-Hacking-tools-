@@ -1,0 +1,28 @@
+# Networking & Security
+scapy
+impacket
+requests
+python-nmap
+
+# Cryptography
+cryptography
+pycryptodome
+hashlib
+pefile
+
+# Social Media APIs (OSINT)
+tweepy
+instabot
+
+# Web Tools
+flask
+beautifulsoup4
+
+# AI & ML
+scikit-learn
+tensorflow
+
+# Utilities
+colorama
+pandas
+matplotlib
